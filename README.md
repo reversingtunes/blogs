@@ -1,4 +1,7 @@
-# docsTemplate
-its just a template Repository for documentation
+# material-for-mkdocs-crash-course-updated-updated
 
-Click on `Use this template` button on the top right to use this repository as a boiler plate for your next documentation
+initial source code at: [material-for-mkdocs-crash-course-updated](https://github.com/c17hawke/material-for-mkdocs-crash-course)
+
+based on tutorial on youtube: 
+
+[![image.png](https://raw.githubusercontent.com/c17hawke/material-for-mkdocs-crash-course/main/TN.png)](https://youtu.be/OOxL-r1L334)
