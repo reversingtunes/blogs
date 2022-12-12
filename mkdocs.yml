@@ -1,8 +1,25 @@
+---
 # Project information
 site_name: Arundeep's Blogs
 # defeine TOC or order of website-
+
 nav:
-  - Home: index.md
+  - About:
+      - about: about/account.md
+  - Architectural Thinking:
+      - First Section MainPage: ArchitecturalThinking/ArchitecturalThinking.md
+      - Second Page: ArchitecturalThinking/WhatIsCharacters.md
+  - Google Cloud:
+      - Google Cloud main Page: GoogleCloud/Main.md
+      - Landing Zone: GoogleCloud/lz.md
+  - Azure Cloud:
+      - Azure Cloud Main Page: Azure/main.md
+      - Landing Zone: Azure/lz.md
+  - Miscellaneous:
+      - miscellaneous Main Page: miscellaneous/miscellaneous.md
+      - Second miscellaneous Page: miscellaneous/second.md
+
+
 
 site_author: Arundeep B V
 site_description: >-
@@ -14,7 +31,7 @@ repo_url: https://github.com/reversingtunes
 
 # Configuration
 theme:
-  name: material
+  name: windmill
   features:
     - navigation.tabs
     - navigation.sections
@@ -26,8 +43,8 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
-      primary: teal
-      accent: purple 
+      primary: grey
+      accent: blue 
     - scheme: slate 
       toggle:
         icon: material/toggle-switch
