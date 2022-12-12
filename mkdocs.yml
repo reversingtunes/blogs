@@ -31,12 +31,25 @@ repo_url: https://github.com/reversingtunes
 
 # Configuration
 theme:
-  name: windmill
+  name: material
   features:
     - navigation.tabs
     - navigation.sections
     - toc.integrate
     - navigation.top
+    - navigation.sections
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.integrate
+    - header.autohide
+    - navigation.expand
+    - navigation.indexes
+    - navigation.instant
   language: en
   palette:
     - scheme: default
