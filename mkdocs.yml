@@ -1,16 +1,16 @@
 # Project information
-site_name: REPO_NAME_OR_SITE_NAME
+site_name: Arundeep's Blogs
 # defeine TOC or order of website-
 nav:
   - Home: index.md
 
-site_author: Sunny Bhaveen Chandra
+site_author: Arundeep B V
 site_description: >-
-  DESCRIPTION
+  In this site I have tried to write about my experiences and taughts on software architecture and cloud computing. 
 
 # Repository
-repo_name: c17hawke/REPO_NAME
-repo_url: https://github.com/c17hawke/REPO_NAME
+repo_name: Reversingtunes
+repo_url: https://github.com/reversingtunes
 
 # Configuration
 theme:
@@ -41,11 +41,11 @@ extra:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/c17hawke
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/c17hawke
+      link: https://twitter.com/arundeepbv
     - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/c17hawke
-    - icon: fontawesome/brands/instagram
-      link: https://www.instagram.com/c17hawke/
+      link: https://linkedin.com/in/arundeepbv
+#    - icon: fontawesome/brands/instagram
+#      link: https://www.instagram.com/c17hawke/
 
 extra_javascript:
   - javascripts/mathjax.js
@@ -70,4 +70,4 @@ plugins:
   - search
 
 copyright: |
-  &copy; 2022 <a href="https://github.com/c17hawke"  target="_blank" rel="noopener">Sunny Bhaveen Chandra</a>
+  &copy; 2022 <a href="https://github.com/reversingtunes"  target="_blank" rel="noopener">Arundeep B V</a>
